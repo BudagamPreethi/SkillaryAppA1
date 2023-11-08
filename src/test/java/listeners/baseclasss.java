@@ -10,6 +10,7 @@ import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 
 public class baseclasss {
+	//addition commit
 	@BeforeSuite
 	public void suitConfig()
 	{
